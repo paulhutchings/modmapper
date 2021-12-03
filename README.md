@@ -1,2 +1,2 @@
 # modmapper
-Models Steam workshop mod dependencies
+Dependency graphs for Steam workshop mods
